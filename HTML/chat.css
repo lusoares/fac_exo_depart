@@ -1,0 +1,23 @@
+.clearfix {
+    clear: both;
+}
+.ohmycat {
+    background-color: aquamarine;
+}
+h1 {
+    background-color: antiquewhite;
+    color: white;
+    text-align: center;
+}
+
+form {
+    width: 200px;
+}
+
+.carousel {
+    width: 100%;
+}
+.sectionCentrale{
+    width: 970px;
+    margin: 0 auto;
+}
